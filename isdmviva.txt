@@ -1,0 +1,17 @@
+
+
+select * from Customer;
+select* from  Customer_phone_number;
+select * from Customer_email
+select * from Vehicle;
+select * from System_manager;
+select * from Grade;
+select * from Feedback;
+select * from System_manager_email;
+select * from Value_Report;
+select * from Payment;
+select * from Accident;
+select * from Claim;
+select * from Claim_Status;
+select * from Payment_Type;
+select * from Image;
